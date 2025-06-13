@@ -9,6 +9,8 @@
 <!-- in the project's Project Properties dialog box.-->
 <project name="GuarfManagement" default="default" basedir=".">
     <description>Builds, tests, and runs the project GuarfManagement.</description>
+<project name="guardManagementSystem" default="default" basedir=".">
+    <description>Builds, tests, and runs the project guardManagementSystem.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
