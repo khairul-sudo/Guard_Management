@@ -7,8 +7,11 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
+<<<<<<< Updated upstream
 <project name="Guard_Management_System_4" default="default" basedir=".">
     <description>Builds, tests, and runs the project Guard Management System 4.</description>
+=======
+>>>>>>> Stashed changes
 <project name="guardManagementSystem" default="default" basedir=".">
     <description>Builds, tests, and runs the project guardManagementSystem.</description>
     <import file="nbproject/build-impl.xml"/>
